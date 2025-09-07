@@ -1,0 +1,9 @@
+*
+!dataset/
+!dataset/*.txt
+!dataset/*.py
+!*.py
+!*.ipynb
+!*.txt
+!.gitignore
+!README.md
